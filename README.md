@@ -4,7 +4,13 @@
  🤖 Embracing the wild world of Python Development.
 
 
- 💻 I'm currently on the look out for a role in the backend web development, ideally writing Python. 
+ 💻 I'm currently on the look out for an engineering role, ideally working in Python. 
+ 
+
+ 😄 In love with Python, Django, Machine Learning!
+ 
+
+ 👾 Currently working on a project that involves Django in the backend, Data Analysis and visualisation with BootStrap for styling.
 
 
  📚 I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
