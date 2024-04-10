@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
- 🤖 Embracing the wild world of Python Development.
+ 🤖 Embracing the wild world of Python.
 
 
  💻 I'm currently on the look out for an engineering role, ideally working in Python. 
