@@ -10,7 +10,7 @@
  😄 In love with Python, Django, Machine Learning!
  
 
- 👾 Currently working on a project that involves Django in the backend, Data Analysis and visualisation with BootStrap for styling.
+ 👾 Currently working on a project that involves Django on the backend, Data Analysis and visualisation with BootStrap for styling.
 
 
  📚 I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
